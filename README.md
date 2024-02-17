@@ -1,5 +1,4 @@
-# I am completing Frontend Test by Bitroot Org.                                                                                                        <b> I am Hrutik Harale <b>
-<br>
+# I am completing Frontend Test by Bitroot Org.                                                                                                        
 <h1>I am using vit+React Tools. React is free open source javascript library. and Vite is a modern tool to create React project. Vite Produces Quick and Small Bundle Size.. </h1>
 <br>
 <h1>Vite:- Use npm run dev to launch dev server..</h1>
@@ -123,3 +122,6 @@
   </p>
   <br>
   <h1>I am using backend Express node because take items data backend and fetch() inside url pass</h1>
+
+  <b> I am Hrutik Harale <b>
+<br>
